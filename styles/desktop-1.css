@@ -1,0 +1,20 @@
+.heroes{
+  padding-top: 1rem;
+  background-color:#887f7f;
+}
+.container{
+  margin-top: 2rem;
+}
+#skills{
+  background-color:#887f7f;
+ margin-top: 3rem;
+}
+.card{
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+.footer{
+  background-color: aqua;
+  text-align: center;
+  font-style: normal;
+}
